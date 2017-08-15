@@ -1,2 +1,2 @@
 # iocage-plugin-clamav
-ClamAV Artifact Plugin Repo
+Artifact file(s) for ClamAV iocage plugin
